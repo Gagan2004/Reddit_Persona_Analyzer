@@ -1,0 +1,78 @@
+======================================================================
+📊 REDDIT USER PERSONA: /u/kojied
+======================================================================
+
+SUMMARY: in their 20-30 from New York City, interested in technology, entertainment, sports, environment, travel, gaming.
+
+📅 Account Age: 2021 days
+⭐ Total Karma: 2,039
+
+--- 👤 Demographics ---
+  - Age Range           : 20-30 (Confidence: 30%)
+    Evidence:
+      1. [newyorkcity] I feel violated by intern season
+         URL: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+      2. [GenZ] What’s a movie that best represents your childhood?
+         URL: https://reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/
+
+  - Gender              : unknown (Confidence: 30%)
+
+  - Location            : New York City (Confidence: 30%)
+    Evidence:
+      1. [newyorkcity] I feel violated by intern season
+         URL: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+      2. [NYCbike] Informative documentary video on YouTube
+         URL: https://reddit.com/r/NYCbike/comments/16n85uj/informative_documentary_video_on_youtube/
+
+  - Occupation          : Software Developer/Engineer (Confidence: 30%)
+    Evidence:
+      1. [AskReddit] H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?
+         URL: https://reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/
+      2. [VisionPro] Spacial tours with 3D map and 360˚ video
+         URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
+
+--- 🎯 Interests & Hobbies ---
+  - Primary Interests   : technology, entertainment, sports, environment, travel, gaming (Confidence: 50%)
+    Evidence:
+      1. [VisionPro] Spacial tours with 3D map and 360˚ video
+         URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
+      2. [visionosdev] Best blogs, tutorial channels to learn
+         URL: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+
+  - Hobbies             : gaming, travel, photography, fitness, reading, music, gardening (Confidence: 50%)
+    Evidence:
+      1. [VisionPro] Would you guys like to see Pokemon Go in AVP?
+         URL: https://reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/
+      2. [VisionPro] Spacial tours with 3D map and 360˚ video
+         URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
+
+  - Favorite Subreddits : most_active_subreddits (Confidence: 95%)
+    Evidence:
+      1. [AskReddit] Comment in: The zombie apocalypse has begun, whats the first thing you do? ...
+         URL: https://reddit.com/r/AskReddit/comments/1h8yia2/the_zombie_apocalypse_has_begun_whats_the_first/m0wmp5q/
+      2. [civ5] Comment in: On a post about trade tariffs...
+         URL: https://reddit.com/r/civ5/comments/1h61fr0/on_a_post_about_trade_tariffs/m0a6ok5/
+
+--- 🧠 Personality & Behavior ---
+  - Inferred Traits     : inquisitive, analytical, humorous (Confidence: 50%)
+    Evidence:
+      1. [AskReddit] H1B holders, what are your thoughts on the narrative that you are being exploited?
+         URL: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+      2. [AskReddit] H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?
+         URL: https://reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/
+
+  - Communication Style : formal, detailed, casual (Confidence: 50%)
+    Evidence:
+      1. [AskReddit] H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?
+         URL: https://reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/
+      2. [VisionPro] Killer feature: accessing chatGPT (iPad app) and using audio as primary input
+         URL: https://reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/
+
+--- 🌟 Goals & Frustrations ---
+  No specific data found for this category.
+
+--- 📈 Content & Activity Analysis ---
+  - Posting Patterns    : Most active around 21:00 UTC (Confidence: 95%)
+
+  - Engagement Style    : Receives moderate engagement (Confidence: 80%)
+

@@ -1,0 +1,83 @@
+======================================================================
+📊 REDDIT USER PERSONA: /u/Hungry-Move-6603
+======================================================================
+
+SUMMARY: Male in their 20s from Lucknow/Delhi, interested in food, reading, social issues.
+
+📅 Account Age: 1562 days
+⭐ Total Karma: 147
+
+--- 👤 Demographics ---
+  - Age Range           : 20s (Confidence: 80%)
+    Evidence:
+      1. [lucknow] Everyone is something in LKO
+         URL: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+      2. [nagpur] Comment in: A very odd experience...
+         URL: https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/
+
+  - Gender              : male (Confidence: 80%)
+    Evidence:
+      1. [indiasocial] Comment in: A 45 year old man is harassing me....
+         URL: https://reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/n2hx8z7/
+      2. [amiugly] Comment in: [deleted by user]...
+         URL: https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/
+
+  - Location            : Lucknow/Delhi (Confidence: 80%)
+    Evidence:
+      1. [lucknow] Reading Cafe / Reader' Club?
+         URL: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+      2. [lucknow] Productive weekend activities in LKO?
+         URL: https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+
+  - Occupation          : business owner/entrepreneur (Confidence: 80%)
+    General Evidence (Top Posts):
+      1. [lucknow] Everyone is something in LKO
+         URL: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+      2. [lucknow] Comment in: Any Tiffin service providing high quality food ? Tired of the poor quality ...
+         URL: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+
+--- 🎯 Interests & Hobbies ---
+  - Primary Interests   : food, reading, social issues (Confidence: 50%)
+    Evidence:
+      1. [lucknow] Reading Cafe / Reader' Club?
+         URL: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+      2. [lucknow] Comment in: Any Tiffin service providing high quality food ? Tired of the poor quality ...
+         URL: https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+
+  - Hobbies             : writing, storytelling (Confidence: 50%)
+    Evidence:
+      1. [lucknow] Reading Cafe / Reader' Club?
+         URL: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+      2. [lucknow] Everyone is something in LKO
+         URL: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+
+  - Favorite Subreddits : most_active_subreddits (Confidence: 95%)
+    Evidence:
+      1. [lucknow] Everyone is something in LKO
+         URL: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+      2. [lucknow] Comment in: What has happened to malls like wave , one awadh and saharaganj?...
+         URL: https://reddit.com/r/lucknow/comments/1lzfhve/what_has_happened_to_malls_like_wave_one_awadh/n34g4ea/
+
+--- 🧠 Personality & Behavior ---
+  - Inferred Traits     : analytical, inquisitive, humorous, frustrated (Confidence: 80%)
+    Evidence:
+      1. [lucknow] Everyone is something in LKO
+         URL: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+      2. [nagpur] Comment in: A very odd experience...
+         URL: https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/
+
+  - Communication Style : informal, detailed, sarcastic (Confidence: 80%)
+    Evidence:
+      1. [lucknow] Everyone is something in LKO
+         URL: https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+      2. [nagpur] Comment in: A very odd experience...
+         URL: https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/
+
+--- 🌟 Goals & Frustrations ---
+  - Frustrations        : {'traits': ['bureaucratic inefficiency', 'poor quality services'], 'traits_evidence_indices': [2, 4, 8, 13]} (Confidence: 80%)
+
+--- 📈 Content & Activity Analysis ---
+  - Posting Patterns    : Most active around 10:00 UTC (Confidence: 95%)
+
+  - Engagement Style    : Content is generally well-received (Confidence: 80%)
+
