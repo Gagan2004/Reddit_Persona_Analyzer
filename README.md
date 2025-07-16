@@ -38,3 +38,54 @@ Follow these steps to set up the project on your local machine.
     # Get this from [https://console.groq.com/keys](https://console.groq.com/keys)
     GROQ_API_KEY="your_groq_api_key"
     ```
+
+
+    ## Command Structure
+You run the script from your terminal or command prompt using the following structure:
+ ```bash
+python reddit_persona_analyzer.py <profile_url> [options]
+
+```
+
+
+### ## Arguments
+
+| Argument      | Shorthand | Description                                                                             | Required |
+| ------------- | --------- | --------------------------------------------------------------------------------------- | :------: |
+| `profile_url` | *(none)* | **Required.** The full URL of the Reddit user's profile to analyze.                     | **Yes** |
+| `--limit`     | `-l`      | Sets the maximum number of recent posts and comments to fetch.                          |    No    |
+| `--format`    | *(none)* | Specifies the output format. Choices are `txt` (default) or `json`.                     |    No    |
+
+---
+### ## Examples
+
+* **Basic Execution (generates a `.txt` report):**
+    ```bash
+    python reddit_persona_analyzer.py https://www.reddit.com/user/some_username/
+    ```
+
+* **Generate a JSON File for Data Analysis:**
+    ```bash
+    python reddit_persona_analyzer.py  https://www.reddit.com/user/some_username/ --format json
+    ```
+
+* **Analyze More Content (e.g., 250 items):**
+    ```bash
+    python reddit_persona_analyzer.py https://www.reddit.com/user/some_username/ --limit 250
+    ```
+
+* **Using the Shorthand for Limit:**
+    ```bash
+    python reddit_persona_analyzer.py https://www.reddit.com/user/some_username/ -l 50
+    ```
+
+---
+### ## 📂 Output Files Explained
+
+* **`persona_{username}.txt`**: A polished, formatted report designed for human reading. It includes a high-level summary, detailed traits with confidence scores, and supporting evidence.
+* **`persona_{username}.json`**: A complete, structured data file containing the entire persona object, including all traits and their specific citations. This format is ideal for use in other applications or for data analysis pipelines.
+* **`scraper.log`**: A persistent log file that records a timestamp and a success message every time a persona file is created or updated, providing an audit trail of the script's activity.
+
+---
+
+
