@@ -12,7 +12,7 @@ Follow these steps to set up the project on your local machine.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/Gagan2004/Reddit_Persona_Analyzer]
+    git clone https://github.com/Gagan2004/Reddit_Persona_Analyzer
     cd reddit-persona-analyzer
     ```
 
@@ -25,7 +25,7 @@ Follow these steps to set up the project on your local machine.
     ```
 
 3.  **Create the Environment File**
-    Create a file named `.env` in the root of the project directory and add your API keys. **Do not share this file publicly.**
+    Create a file named `.env` in the root of the project directory and add your API keys. 
 
     ```env
     # .env file
@@ -57,6 +57,7 @@ python reddit_persona_analyzer.py <profile_url> [options]
 | `--format`    | *(none)* | Specifies the output format. Choices are `txt` (default) or `json`.                     |    No    |
 
 ---
+
 ### ## Examples
 
 * **Basic Execution (generates a `.txt` report):**
